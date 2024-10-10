@@ -18,6 +18,11 @@
     "@angular/platform-browser": "^18.2.0",
     "@angular/platform-browser-dynamic": "^18.2.0",
     "@angular/router": "^18.2.0",
+    "@mapbox/mapbox-gl-geocoder": "^5.0.3",
+    "@ngrx/effects": "^18.1.0",
+    "@ngrx/store": "^18.1.0",
+    "@ngrx/store-devtools": "^18.1.0",
+    "mapbox-gl": "^3.7.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.10"
